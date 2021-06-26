@@ -1,0 +1,29 @@
+h1{
+    color: darkgreen;
+    font-family: georgia;
+    text-align:center
+}
+
+h2 {
+    font-family: georgia;
+    text-align:center
+}
+
+#pstyle{
+    line-height: 25px;
+    font-family: georgia;
+    
+}
+
+.allCaps{
+    text-transform: uppercase;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+img{
+    margin-right: 30px;
+    float: left;
+}
