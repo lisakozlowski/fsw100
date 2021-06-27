@@ -1,11 +1,11 @@
 body {
-    background-color: coral;
+    background-color: rgb(149, 175, 248);
 }
 
 
 
 h1 {
-    color: rgb(44, 3, 13);
+    color: blue;
     font-family: sans-serif;
 }
 
@@ -14,7 +14,7 @@ table, th {
 }
 
 h3 {
-    color: rgb(243, 162, 187);
+    color: black;
     font-family: sans-serif;
 }
 

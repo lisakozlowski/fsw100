@@ -15,12 +15,20 @@ h2 {
     
 }
 
+li{
+    color:red;
+}
+
 .allCaps{
     text-transform: uppercase;
 }
 
 a:link {
     text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
 }
 
 img{
