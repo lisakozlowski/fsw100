@@ -1,0 +1,31 @@
+body {
+    background-color: coral;
+}
+
+
+
+h1 {
+    color: rgb(44, 3, 13);
+    font-family: sans-serif;
+}
+
+table, th {
+    border: 2px solid black
+}
+
+h3 {
+    color: rgb(243, 162, 187);
+    font-family: sans-serif;
+}
+
+p {
+    font-family:sans-serif;
+    font-size: 15px;
+}
+
+table{
+    font-family:sans-serif;
+    font-size: 15px;
+    color:darkgreen;
+}
+
