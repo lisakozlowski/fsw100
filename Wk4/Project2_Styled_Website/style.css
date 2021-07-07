@@ -1,0 +1,57 @@
+body {
+    background-color: pink;
+    font-family: verdana;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: purple;
+}
+
+h2 {
+    color:purple;
+}
+
+p {
+    color: red;
+}
+
+.borderBox {
+    border-color: rgb(46, 3, 9);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 7%;
+    max-width: 400px;
+    text-align: left;
+    margin: 20px;
+    padding: 15px;
+}
+
+.mainImages {
+    border-color:grey;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 10px;
+}
+
+.boldList {
+    font-weight: bold;
+    color: purple;
+}
+
+li {
+    font-style: italic;
+}
+
+.listImages{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 5px;
+}
+
+footer {
+    color: purple;
+}
